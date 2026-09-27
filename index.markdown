@@ -13,7 +13,7 @@ layout: default
 이 작은 전자책은 Forth라는 프로그래밍 언어를 배우기 위한 책입니다. Forth는
 대부분의 다른 언어와는 다릅니다. 함수형 언어도 객체 지향 언어도 아니고,
 타입 검사도 없으며, 문법도 사실상 없다시피 합니다. 1970년대에 만들어졌지만
-지금도 [특정 분야](http://www.forth.com/resources/apps/more-applications.html)에서
+지금도 [특정 분야](https://www.forth.com/resources/forth-apps/)에서
 사용되고 있습니다.
 
 이렇게 특이한 언어를 왜 배워야 할까요? 새로운 프로그래밍 언어를 하나씩 배울 때마다
